@@ -56,7 +56,8 @@ AI Application 개발 역량을 키우고 있습니다
 
 ### 💾 Backend
 
-- **Frameworks & Languages:** ASP.NET Core (C#), node.js.(JavaScript/TypeScript), PHP, Python, ![Static Badge](https://img.shields.io/badge/Node.js-339933)
+- **Frameworks & Languages:** ASP.NET Core (C#), node.js.(JavaScript/TypeScript), PHP, ![Static Badge](https://img.shields.io/badge/Python-3776AB)
+, ![Static Badge](https://img.shields.io/badge/Node.js-339933)
 
 
 - **Infrastructure & OS:** SULinux (RedHat 기반 국산 엔터프라이즈 OS), Docker, CI/CD Pipelines 
