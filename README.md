@@ -56,7 +56,7 @@ AI Application 개발 역량을 키우고 있습니다
 
 ### 💾 Backend
 
-- **Frameworks & Languages:** ASP.NET Core (C#), [![Next.js](https://shields.io)](https://nextjs.org) (JavaScript/TypeScript), PHP, Python, ![Static Badge](https://img.shields.io/badge/Next.js)
+- **Frameworks & Languages:** ASP.NET Core (C#), node.js.(JavaScript/TypeScript), PHP, Python, ![Static Badge](https://img.shields.io/badge/Next.js)
 
 - **Infrastructure & OS:** SULinux (RedHat 기반 국산 엔터프라이즈 OS), Docker, CI/CD Pipelines 
 
