@@ -90,6 +90,6 @@ ugth what I'       | |          _          | |     d do was,
 ---
 
 ## ✉️ Contact & Link
-- **LinkedIn:** [내 링크] ([https://linkedin.com] (https://www.linkedin.com/in/sohotmas-co-69abb9425))
+- **LinkedIn:** [내 링크] ([https://linkedin.com](https://www.linkedin.com/in/sohotmas-co-69abb9425))
 - **Portfolio:** [포트폴리오 사이트([https://velog.io](https://ai-human-portfolio.vercel.app/))
 
