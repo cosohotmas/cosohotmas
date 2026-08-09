@@ -72,7 +72,7 @@ AI Application 개발 역량을 키우고 있습니다
 ---
 
 ### 🤖 AI
-- **Frameworks & Technologies:** Semantic Kernel (.NET), LangChain / LangChain.js, FastAPI (Python), LLM Integration, RAG, Autonomous AI Agents
+- **Frameworks & Technologies:** LangChain / LangChain.js, FastAPI (Python), LLM Integration, RAG
 - **Domain Specialization:** 대용량 시계열 데이터 관리(Time-Series), 드론 영상 가공, 지형 공간 분석(GIS)
 
 ---
