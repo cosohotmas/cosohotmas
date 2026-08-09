@@ -67,7 +67,7 @@ AI Application 개발 역량을 키우고 있습니다
 ---
 
 ### 🗄️ Database
-- **Database & Spatial Data:** MySQL, MS-SQL, PostgreSQL (PostGIS / pgvector), Redis
+- **Database & Spatial Data:** MySQL, MariaDB, MS-SQL, PostgreSQL (PostGIS / pgvector), Redis
 
 ---
 
