@@ -56,12 +56,11 @@ AI Application 개발 역량을 키우고 있습니다
 
 ### 💾 Backend
 
-- **Frameworks & Languages:** [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%20(C%23)-3776AB)](https://dotnet.microsoft.com/ko-kr/apps/aspnet),
+- **Frameworks & Languages:** [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%20(C%23)-3776AB)](https://dotnet.microsoft.com/ko-kr/apps/aspnet) 
 [![node.js JavaScript/TypeScript](https://img.shields.io/badge/node.js.(JavaScript%2FTypeScript)-339933?)](https://nodejs.org)
-,[![PHP](https://img.shields.io/badge/php-777BB4)](https://www.php.net)
-
-, ![Static Badge](https://img.shields.io/badge/Python-3776AB)
-, ![Static Badge](https://img.shields.io/badge/Node.js-339933)
+[![PHP](https://img.shields.io/badge/php-777BB4)](https://www.php.net)
+![Static Badge](https://img.shields.io/badge/Python-3776AB)
+![Static Badge](https://img.shields.io/badge/Node.js-339933)
 
 - **Infrastructure & OS:** SULinux (RedHat 기반 국산 엔터프라이즈 OS), Docker, CI/CD Pipelines 
 
