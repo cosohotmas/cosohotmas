@@ -52,17 +52,28 @@ AI Application 개발 역량을 키우고 있습니다
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 
-### 💻 Backend & Architecture
-- **Frameworks & Languages:** ASP.NET Core, C#, Entity Framework Core
-- **Database & Spatial Data:** MS-SQL, PostgreSQL (PostGIS / pgvector), Redis
-- **Infra & DevOps:** Docker, AWS, CI/CD Pipelines
+### 💾 Backend
 
-### 🤖 AI Application & Multimodal Engine
-- **Frameworks:** Semantic Kernel (.NET), LangChain, FastAPI (Python)
-- **AI Technologies:** LLM Integration, RAG (Retrieval-Augmented Generation), Autonomous AI Agents
-- **Data & Vision Domain:** Time-Series Data Management, Drone Image Processing, GIS & Spatial Data Analysis
+- **Frameworks & Languages:** ASP.NET Core (C#), Node.js (JavaScript/TypeScript), PHP, Python, Next.js
+- **Infrastructure & OS:** Linux (Ubuntu/CentOS), Docker, CI/CD Pipelines 
+
+---
+
+### 🎨 Frontend
+- **Frameworks & Libraries:** TypeScript, Tailwind CSS v4, HTML5, CSS3, prototype.js, jQuery, Bootstrap
+
+---
+
+### 🗄️ Database
+- **Database & Spatial Data:** MySQL, MS-SQL, PostgreSQL (PostGIS / pgvector), Redis
+
+---
+
+### 🤖 AI
+- **Frameworks & Technologies:** Semantic Kernel (.NET), LangChain / LangChain.js, FastAPI (Python), LLM Integration, RAG, Autonomous AI Agents
+- **Domain Specialization:** 대용량 시계열 데이터 관리(Time-Series), 드론 영상 가공, 지형 공간 분석(GIS)
 
 ---
 
