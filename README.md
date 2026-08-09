@@ -57,7 +57,7 @@ AI Application 개발 역량을 키우고 있습니다
 ### 💾 Backend
 
 - **Frameworks & Languages:** ASP.NET Core (C#), Node.js (JavaScript/TypeScript), PHP, Python, Next.js
-- **Infrastructure & OS:** Linux (Ubuntu/CentOS), Docker, CI/CD Pipelines 
+- **Infrastructure & OS: SULinux (RedHat 기반 국산 엔터프라이즈 OS), Docker, CI/CD Pipelines 
 
 ---
 
