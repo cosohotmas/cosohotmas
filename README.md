@@ -62,7 +62,7 @@ AI Application 개발 역량을 키우고 있습니다
 ---
 
 ### 🎨 Frontend
-- **Frameworks & Libraries:** TypeScript, Tailwind CSS v4, HTML5, CSS3, prototype.js, jQuery, Bootstrap
+- **Frameworks & Libraries:** TypeScript, Tailwind CSS v4, HTML5, CSS3, prototype.js, jQuery, three,js Bootstrap, 
 
 ---
 
