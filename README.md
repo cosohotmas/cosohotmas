@@ -56,7 +56,7 @@ AI Application 개발 역량을 키우고 있습니다
 
 ### 💾 Backend
 
-- **Frameworks & Languages:** [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%20(C%23)-3776AB)](https://dotnet.microsoft.com/ko-kr/apps/aspnet), [![node.js.(JavaScript/TypeScript)]([https://shields.io](https://img.shields.io/badge/node.js.(JavaScript%2FTypeScript)-339933?)]([https://nodejs.org](https://nodejs.org/ko))
+- **Frameworks & Languages:** [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%20(C%23)-3776AB)](https://dotnet.microsoft.com/ko-kr/apps/aspnet), [![node.js JavaScript/TypeScript](https://img.shields.io/badge/node.js.(JavaScript%2FTypeScript)-339933?)](https://nodejs.org)
 , PHP, ![Static Badge](https://img.shields.io/badge/Python-3776AB)
 , ![Static Badge](https://img.shields.io/badge/Node.js-339933)
 
