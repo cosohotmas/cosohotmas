@@ -37,7 +37,7 @@ ugth what I'       | |          _          | |     d do was,
                   those deaf-mutes. I
 ```
 
-> "I thought what I'd do was, I'd pretend I was one of those deaf-mutes." — *The Laughing Man*
+> "I thought what I'd do was, I'd pretend I was one of those deaf-mutes." — *J.D. Salinger*
 
 
 # 🚀 안녕하세요, AI 기반 백엔드 엔지니어 차백호입니다.
